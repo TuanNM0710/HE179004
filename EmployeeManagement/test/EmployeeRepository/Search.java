@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit4TestClass.java to edit this template
  */
-package StudentRepository;
+package EmployeeRepository;
 
 import DBContext.EmployeeDBContext;
 import entity.Employee;
@@ -16,9 +16,6 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
-
-import EmployeeRepository.IEmployeeRepository;
-import EmployeeRepository.EmployeeRepository;
 
 /**
  * @author Asus

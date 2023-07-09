@@ -4,14 +4,14 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/E:/JAVA/StudentManagement/src/DBContext/StudentDBContext.java</file>
-            <file>file:/E:/JAVA/StudentManagement/test/StudentRepository/Remove.java</file>
-            <file>file:/E:/JAVA/StudentManagement/test/StudentRepository/Insert.java</file>
-            <file>file:/E:/JAVA/StudentManagement/test/StudentRepository/Search.java</file>
+            <file>file:/E:/JAVA/StudentManagement/test/EmployeeRepository/Remove.java</file>
+            <file>file:/E:/JAVA/StudentManagement/test/EmployeeRepository/Insert.java</file>
+            <file>file:/E:/JAVA/StudentManagement/test/EmployeeRepository/Search.java</file>
             <file>file:/E:/JAVA/StudentManagement/src/entity/Student.java</file>
             <file>file:/E:/JAVA/StudentManagement/src/EmployeeManagement/StudentManagement.java</file>
             <file>file:/E:/JAVA/StudentManagement/src/EmployeeRepository/IStudentRepository.java</file>
-            <file>file:/E:/JAVA/StudentManagement/test/StudentRepository/Update.java</file>
-            <file>file:/E:/JAVA/StudentManagement/src/EmployeeRepository/StudentRepository.java</file>
+            <file>file:/E:/JAVA/StudentManagement/test/EmployeeRepository/Update.java</file>
+            <file>file:/E:/JAVA/StudentManagement/src/EmployeeRepository/EmployeeRepository.java</file>
         </group>
     </open-files>
 </project-private>
